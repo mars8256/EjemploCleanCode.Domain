@@ -1,0 +1,17 @@
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Infrastructure\bin\Debug\net6.0\EjemploCleanCode.Infrastructure.deps.json
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Infrastructure\bin\Debug\net6.0\EjemploCleanCode.Infrastructure.dll
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Infrastructure\bin\Debug\net6.0\EjemploCleanCode.Infrastructure.pdb
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Infrastructure\bin\Debug\net6.0\EjemploCleanCode.Application.dll
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Infrastructure\bin\Debug\net6.0\EjemploCleanCode.Domain.dll
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Infrastructure\bin\Debug\net6.0\EjemploCleanCode.Application.pdb
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Infrastructure\bin\Debug\net6.0\EjemploCleanCode.Domain.pdb
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Infrastructure\obj\Debug\net6.0\EjemploCleanCode.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Infrastructure\obj\Debug\net6.0\EjemploCleanCode.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Infrastructure\obj\Debug\net6.0\EjemploCleanCode.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Infrastructure\obj\Debug\net6.0\EjemploCleanCode.Infrastructure.AssemblyInfo.cs
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Infrastructure\obj\Debug\net6.0\EjemploCleanCode.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Infrastructure\obj\Debug\net6.0\EjemploCleanCode.Infrastructure.csproj.CopyComplete
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Infrastructure\obj\Debug\net6.0\EjemploCleanCode.Infrastructure.dll
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Infrastructure\obj\Debug\net6.0\refint\EjemploCleanCode.Infrastructure.dll
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Infrastructure\obj\Debug\net6.0\EjemploCleanCode.Infrastructure.pdb
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Infrastructure\obj\Debug\net6.0\ref\EjemploCleanCode.Infrastructure.dll

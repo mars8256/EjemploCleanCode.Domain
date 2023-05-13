@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "EjemploCleanCode.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/EjemploCleanCode.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EjemploCleanCode.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjemploCleanCode.Domain/1.0.0": {
+      "type": "project",
+      "path": "../EjemploCleanCode.Domain/EjemploCleanCode.Domain.csproj",
+      "msbuildProject": "../EjemploCleanCode.Domain/EjemploCleanCode.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "EjemploCleanCode.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\pc-home\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\pc-home\\source\\repos\\EjemploCleanCode.Domain\\EjemploCleanCode.Application\\EjemploCleanCode.Application.csproj",
+      "projectName": "EjemploCleanCode.Application",
+      "projectPath": "C:\\Users\\pc-home\\source\\repos\\EjemploCleanCode.Domain\\EjemploCleanCode.Application\\EjemploCleanCode.Application.csproj",
+      "packagesPath": "C:\\Users\\pc-home\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pc-home\\source\\repos\\EjemploCleanCode.Domain\\EjemploCleanCode.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\pc-home\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\pc-home\\source\\repos\\EjemploCleanCode.Domain\\EjemploCleanCode.Domain\\EjemploCleanCode.Domain.csproj": {
+              "projectPath": "C:\\Users\\pc-home\\source\\repos\\EjemploCleanCode.Domain\\EjemploCleanCode.Domain\\EjemploCleanCode.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

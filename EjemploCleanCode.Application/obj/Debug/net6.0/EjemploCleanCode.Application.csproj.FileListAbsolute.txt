@@ -1,0 +1,15 @@
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Application\bin\Debug\net6.0\EjemploCleanCode.Application.deps.json
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Application\bin\Debug\net6.0\EjemploCleanCode.Application.dll
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Application\bin\Debug\net6.0\EjemploCleanCode.Application.pdb
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Application\bin\Debug\net6.0\EjemploCleanCode.Domain.dll
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Application\bin\Debug\net6.0\EjemploCleanCode.Domain.pdb
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Application\obj\Debug\net6.0\EjemploCleanCode.Application.csproj.AssemblyReference.cache
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Application\obj\Debug\net6.0\EjemploCleanCode.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Application\obj\Debug\net6.0\EjemploCleanCode.Application.AssemblyInfoInputs.cache
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Application\obj\Debug\net6.0\EjemploCleanCode.Application.AssemblyInfo.cs
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Application\obj\Debug\net6.0\EjemploCleanCode.Application.csproj.CoreCompileInputs.cache
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Application\obj\Debug\net6.0\EjemploCleanCode.Application.csproj.CopyComplete
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Application\obj\Debug\net6.0\EjemploCleanCode.Application.dll
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Application\obj\Debug\net6.0\refint\EjemploCleanCode.Application.dll
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Application\obj\Debug\net6.0\EjemploCleanCode.Application.pdb
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Application\obj\Debug\net6.0\ref\EjemploCleanCode.Application.dll

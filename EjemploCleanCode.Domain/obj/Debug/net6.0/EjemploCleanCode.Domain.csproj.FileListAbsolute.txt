@@ -1,0 +1,12 @@
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Domain\bin\Debug\net6.0\EjemploCleanCode.Domain.deps.json
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Domain\bin\Debug\net6.0\EjemploCleanCode.Domain.dll
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Domain\bin\Debug\net6.0\EjemploCleanCode.Domain.pdb
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Domain\obj\Debug\net6.0\EjemploCleanCode.Domain.csproj.AssemblyReference.cache
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Domain\obj\Debug\net6.0\EjemploCleanCode.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Domain\obj\Debug\net6.0\EjemploCleanCode.Domain.AssemblyInfoInputs.cache
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Domain\obj\Debug\net6.0\EjemploCleanCode.Domain.AssemblyInfo.cs
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Domain\obj\Debug\net6.0\EjemploCleanCode.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Domain\obj\Debug\net6.0\EjemploCleanCode.Domain.dll
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Domain\obj\Debug\net6.0\refint\EjemploCleanCode.Domain.dll
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Domain\obj\Debug\net6.0\EjemploCleanCode.Domain.pdb
+C:\Users\pc-home\source\repos\EjemploCleanCode.Domain\EjemploCleanCode.Domain\obj\Debug\net6.0\ref\EjemploCleanCode.Domain.dll
